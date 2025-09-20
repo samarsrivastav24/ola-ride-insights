@@ -18,21 +18,11 @@ This project combines **SQL, Python, Power BI, and Streamlit** to deliver an end
 - SQL queries to analyze bookings, cancellations, payments, and ratings  
 - Python EDA (data cleaning + visualization)  
 - Power BI dashboards for trends and KPIs  
-- Streamlit app integrating SQL queries + Power BI dashboard  
-
----
-
-### 📊 Screenshots
-_Add your Power BI dashboard or Streamlit app screenshots here_  
-Example:  
-
-![Dashboard Screenshot](screenshot.png)
-
----
-
-### 🚀 Live Demo
-- [🔗 Streamlit App](https://coming soon .streamlit.app)  
-- [📊 Power BI Dashboard](https://https://app.powerbi.com/view?r=eyJrIjoiYmFmMmEwZmMtNWQ2Ny00ZGMyLWE4ZTctMDEyNGJlMzI0M2ZkIiwidCI6ImM2OWZmZTY1LTY3ZDUtNGE1OC05MDA4LTBkMDljMDRkYmU2OCJ9/view?r=...)  
+- Streamlit app integrating SQL queries + Power BI dashboard 
+ 
+ ### 🚀 Live Demo
+- [🔗 Streamlit App](coming soon)  
+- [📊 Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmFmMmEwZmMtNWQ2Ny00ZGMyLWE4ZTctMDEyNGJlMzI0M2ZkIiwidCI6ImM2OWZmZTY1LTY3ZDUtNGE1OC05MDA4LTBkMDljMDRkYmU2OCJ9)  
 
 ---
 
