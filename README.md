@@ -31,8 +31,8 @@ Example:
 ---
 
 ### 🚀 Live Demo
-- [🔗 Streamlit App](https://yourapp.streamlit.app)  
-- [📊 Power BI Dashboard](https://app.powerbi.com/view?r=...)  
+- [🔗 Streamlit App](https://coming soon .streamlit.app)  
+- [📊 Power BI Dashboard](https://https://app.powerbi.com/view?r=eyJrIjoiYmFmMmEwZmMtNWQ2Ny00ZGMyLWE4ZTctMDEyNGJlMzI0M2ZkIiwidCI6ImM2OWZmZTY1LTY3ZDUtNGE1OC05MDA4LTBkMDljMDRkYmU2OCJ9/view?r=...)  
 
 ---
 
