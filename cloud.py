@@ -36,6 +36,7 @@ with tab2:
             user=st.secrets["DB_USER"],
             password=st.secrets["DB_PASS"],
             port=st.secrets["DB_PORT"],
+            sslmode="require",
             connect_timeout=10
         )
         cur = conn.cursor()
