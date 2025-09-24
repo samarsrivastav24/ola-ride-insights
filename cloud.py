@@ -79,7 +79,7 @@ with tab2:
         'SELECT SUM("Booking_Value") AS total_booking_value FROM cleaned_ola_dataset WHERE "Booking_Status" = \'Success\';',
 
     "10. Incomplete rides + reason":
-        'SELECT "Booking_Id", "Incomplete_Rides_Reason" FROM cleaned_ola_dataset WHERE "Incomplete_Rides" = \'Yes\';'
+        'SELECT "Booking_ID", "Incomplete_Rides_Reason"FROM cleaned_ola_dataset WHERE "Incomplete_Rides" != '0';'
 
 
     }
