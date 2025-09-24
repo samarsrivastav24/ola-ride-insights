@@ -73,7 +73,7 @@ with tab2:
         'SELECT * FROM cleaned_ola_dataset WHERE "Payment_Method" = \'UPI\' LIMIT 50;',
 
     "8. Avg customer rating per vehicle":
-        'SELECT "Vehicle_Type", AVG("Customer_Rating"::numeric) AS avg_rating FROM your_table GROUP BY "Vehicle_Type";',
+        'SELECT "Vehicle_Type", AVG("Customer_Rating"::numeric) AS avg_rating FROM  cleaned_ola_dataset GROUP BY "Vehicle_Type";',
 
     "9. Total booking value of successful rides":
         'SELECT SUM("Booking_Value") AS total_booking_value FROM cleaned_ola_dataset WHERE "Booking_Status" = \'Success\';',
