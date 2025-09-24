@@ -55,7 +55,7 @@ with tab2:
 
     "2. Avg Ride Distance per Vehicle":
         'SELECT "Vehicle_Type", AVG("Ride_Distance"::numeric) AS avg_ride_by_vehicle FROM cleaned_ola_dataset GROUP BY "Vehicle_Type";',
-,
+
 
     "3. Total cancelled rides by customers":
         'SELECT COUNT(*) AS total_rides_canceled_by_customer FROM cleaned_ola_dataset WHERE "Canceled_Rides_by_Customer" = \'Yes\';',
