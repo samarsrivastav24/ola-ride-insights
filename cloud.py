@@ -58,7 +58,7 @@ with tab2:
 
 
     "3. Total cancelled rides by customers":
-        'SELECT COUNT(*) AS total_rides_canceled_by_customer FROM cleaned_ola_dataset WHERE "Canceled_Rides_by_Customer" = \'Yes\';',
+        'SELECT COUNT(*) AS total_rides_canceled_by_customer FROM cleaned_ola_dataset WHERE "Canceled_Rides_by_Customer" != \'0\';',
 
     "4. Top 5 customers by bookings":
         'SELECT "Customer_ID", COUNT("Booking_ID") AS total_booking_by_customer FROM cleaned_ola_dataset GROUP BY "Customer_ID" ORDER BY total_booking_by_customer DESC LIMIT 5;',
