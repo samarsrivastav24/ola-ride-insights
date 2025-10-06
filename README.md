@@ -21,7 +21,7 @@ This project combines **SQL, Python, Power BI, and Streamlit** to deliver an end
 - Streamlit app integrating SQL queries + Power BI dashboard 
  
  ### 🚀 Live Demo
-- [🔗 Streamlit App](coming soon)  
+- [🔗 Streamlit App](https://ola-ride-insights-app.streamlit.app/)  
 - [📊 Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmFmMmEwZmMtNWQ2Ny00ZGMyLWE4ZTctMDEyNGJlMzI0M2ZkIiwidCI6ImM2OWZmZTY1LTY3ZDUtNGE1OC05MDA4LTBkMDljMDRkYmU2OCJ9)  
 
 ---
